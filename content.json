@@ -1,1 +1,42 @@
-{}
+{
+    "patientgegevens": {
+        "geslacht": {
+            "selectedChoice": "v"
+        },
+        "datum_van_de_eerste_insulinetoediening": "12/2007",
+        "patient_niss": 61696233,
+        "naam": "Kneppers",
+        "voornaam": "Chaimae",
+        "geboortedatum": "06/14/1995",
+        "__comma_dummy": null
+    },
+    "datacollectie": {
+        "algemeen": {
+            "datum_van_de_meest_recente_consultatie": "15/02/2013"
+        },
+        "metingen": {
+            "lengte": {
+                "datum_van_bepaling": "15/02/2013",
+                "lengte_cm": 167,
+                "__comma_dummy": null
+            },
+            "gewicht": {
+                "datum_van_bepaling": "15/02/2013",
+                "gewicht_kg": "64,2",
+                "__comma_dummy": null
+            },
+            "systolische_bloeddruk": {
+                "datum_van_bepaling": "15/02/2013",
+                "systolische_bloeddruk_mmhg": 140,
+                "__comma_dummy": null
+            },
+            "diastolische_bloeddruk": {
+                "datum_van_bepaling": "15/02/2013",
+                "diastolische_bloeddruk_mmhg": 76,
+                "__comma_dummy": null
+            },
+            "insulinedosis_iedag": "21",
+            "__comma_dummy": null
+        }
+    }
+}
